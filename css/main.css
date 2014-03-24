@@ -98,6 +98,14 @@ html, body, h1, h2, h3, h4, h5, h6, p, ol, ul, li, pre, code, address, variable,
 	
 }
 
+#benefits {
+  display: inline-block;
+}
+
+#benefits .list1 {
+  float: right;
+}
+
 ul {
 	list-style-type: none;	
 }
