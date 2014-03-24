@@ -196,7 +196,7 @@ ul a {
   display: inline-block;
   width: 195px;
   height: 133px;
-  background: url(pic2.jpg);
+  background: url(../images/pic2.jpg);
   margin: 5px;
   background-position: center top;
   background-repeat: no-repeat;
@@ -206,7 +206,7 @@ ul a {
   display: inline-block;
   width: 195px;
   height: 133px;
-  background: url(pic1.jpg);
+  background: url(../images/pic1.jpg);
   margin: 5px;
   background-position: center top;
   background-repeat: no-repeat;
@@ -216,7 +216,7 @@ ul a {
   display: inline-block;
   width: 195px;
   height: 133px;
-  background: url(pic4.jpg);
+  background: url(../images/pic4.jpg);
   margin: 5px;
   background-position: center top;
   background-repeat: no-repeat;
@@ -226,7 +226,7 @@ ul a {
   display: inline-block;
   width: 195px;
   height: 133px;
-  background: url(pic3.jpg);
+  background: url(../images/pic3.jpg);
   margin: 5px;
   background-position: center top;
   background-repeat: no-repeat;
